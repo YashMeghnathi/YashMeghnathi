@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashMeghnathi
-- 👀 I’m interested in Blockchain Technology, dApps & the future of Web3 & Cryptos.
-- 🌱 I’m currently learning Solidity, Smart Contract Development, and deepening my understanding of Blockchain Ecosystems like Ethereum, Bitcoin and HyperFabric.
+- 👀 I’m interested in Blockchain Technology, dApps , the future of Web3 & Cryptos.
+- 🌱 I’m actively working with Solidity, Smart Contract Development, and expanding my knowledge of Blockchain Ecosystems such as Ethereum, Bitcoin, and Hyperledger Fabric.
 - 😄 Pronouns: He/Him
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmeghnathi/)
 
