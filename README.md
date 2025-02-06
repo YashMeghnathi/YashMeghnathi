@@ -20,11 +20,9 @@
 - **Solidity**
 - **Ethereum**
 - **Bitcoin**
-- **Hyperledger Fabric**
 - **Remix IDE**
 - **MetaMask**
 - **OpenZeppelin**
-- **IPFS**
 - **Etherscan**
 
 ---
