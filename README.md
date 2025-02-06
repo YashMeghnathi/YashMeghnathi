@@ -30,7 +30,7 @@
 ## 🚀 Badges
 
 ### Blockchain-Specific
-![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-6A6A6A.svg)
+![Ethereum](https://img.shields.io/badge/Blockchain-Ethereum-yellow.svg)
 ![Solidity](https://img.shields.io/badge/Language-Solidity-blue.svg)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contract-Solidity-green.svg)
 
