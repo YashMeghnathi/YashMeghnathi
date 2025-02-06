@@ -10,6 +10,12 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
 
+###
+## Acknowledgements
+- Thanks to [Solidity Docs](https://soliditylang.org/docs/) for their excellent documentation.
+- Inspiration from [OpenZeppelin](https://openzeppelin.com/).
+
+
 ### 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmeghnathi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashmeghnathi16.11@gmail.com)
