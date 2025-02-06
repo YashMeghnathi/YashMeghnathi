@@ -1,4 +1,4 @@
-# Hi, I'm Yash Meghnathi 👋
+# Hi, I'm Yash Meghnathi 
 
 - I’m passionate about **Blockchain Technology**, **dApps**, **Web3**, and **Cryptocurrencies**.  
 - I am actively working with **Solidity**, **Smart Contract Development**, and expanding my knowledge of Blockchain ecosystems like **Ethereum** and **Bitcoin**.
@@ -7,12 +7,7 @@
 
 - **Solidity**
 - **Ethereum**
-- **Truffle**
-- **Hardhat**
-- **Ganache**
-- **MetaMask**
-- **Web3.js**
-- **Ethers.js**
+
 
 ### 🌐 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashMeghnathi&layout=compact)
@@ -35,9 +30,6 @@
 
 ### Platforms
 ![Remix IDE](https://img.shields.io/badge/Platform-Remix%20IDE-blue.svg)
-![Truffle](https://img.shields.io/badge/Framework-Truffle-orange.svg)
-![Hardhat](https://img.shields.io/badge/Framework-Hardhat-blue.svg)
-![Ganache](https://img.shields.io/badge/Blockchain-Ganache-purple.svg)
 
 ### Dependencies
 ![Dependencies](https://img.shields.io/badge/Dependencies-10-blue.svg)
@@ -45,14 +37,6 @@
 
 ---
 
-## 📖 Learning Path
-
-- **Solidity & Smart Contracts**: Continuously learning the latest trends and best practices for building Ethereum-based decentralized applications.
-- **DeFi & Blockchain Security**: Exploring decentralized finance protocols and understanding how to secure smart contracts and decentralized applications.
-- **Layer-2 Solutions**: Gaining experience with solutions like **Optimism**, **Arbitrum**, and **Polygon** to scale Ethereum.
-- **Web3**: Integrating blockchain with web applications to create decentralized web solutions.
-
----
 
 Feel free to check out my repositories, contributions, and projects. I'm always open to new challenges and collaborating with like-minded individuals! 😊
 
