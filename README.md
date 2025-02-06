@@ -5,6 +5,8 @@
 
 ###  Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashMeghnathi&layout=compact)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)
 
 ### 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmeghnathi/)
