@@ -3,10 +3,6 @@
 - I’m passionate about **Blockchain Technology**, **dApps**, **Web3**, and **Cryptocurrencies**.  
 - I am actively working with **Solidity**, **Smart Contract Development**, and expanding my knowledge of Blockchain ecosystems like **Ethereum**, **Bitcoin**, and **Hyperledger Fabric**.
 
-
-### 🌐 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashMeghnathi&layout=compact)
-
 ---
 
 ### 🔧 Technologies & Tools
@@ -20,6 +16,12 @@
 - **Etherscan**
 
 ---
+
+
+### 🌐 Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashMeghnathi&layout=compact)
+
+
 
 ## 🚀 Badges
 
